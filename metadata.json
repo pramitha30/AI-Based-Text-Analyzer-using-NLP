@@ -1,0 +1,5 @@
+{
+  "name": "InsightLex NLP Analyzer",
+  "description": "A high-performance AI-powered Natural Language Processing tool that provides deep insights into sentiment, entities, tone, and readability using Gemini 3.",
+  "requestFramePermissions": []
+}
